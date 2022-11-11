@@ -6,7 +6,7 @@
 
 ## UML Class Diagram
 Mengimplementasikan UML class diagram menjadi java code : </br>
-![uml](https://user-images.githubusercontent.com/94231436/201166750-d9a1a90e-1c5e-4dc5-91cd-50fdd9614726.JPG)
+![uml](https://github.com/yuyunftmh/Praktikum4/blob/master/uml.JPG?raw=true)
 </br>
 
 ## Step 1

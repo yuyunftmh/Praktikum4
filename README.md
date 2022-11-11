@@ -1,7 +1,7 @@
 # Praktikum4
 ***Nama : Yuyun Fatimah***</br>
-***NIM : 312110xxx***</br>
-***Kelas : TI.21.xx***</br>
+***NIM : 312110216</br>
+***Kelas : TI.21.C2***</br>
 </br>
 
 ## UML Class Diagram

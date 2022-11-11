@@ -136,7 +136,7 @@ public class Main {
 ```
 
 ## Output Program
-![uml](https://raw.githubusercontent.com/Akbaroke/joki-java/main/outputProgram.JPG?token=GHSAT0AAAAAAB25V73HJ43573UWDROZCED2Y3NIBJA)
+![uml](https://raw.githubusercontent.com/yuyunftmh/Praktikum4/master/outputProgram.JPG)
 
 
 
